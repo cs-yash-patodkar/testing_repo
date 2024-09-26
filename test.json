@@ -1,0 +1,19 @@
+"azure-network-security-group": {
+        "versions": [
+            {
+                "version": "1.0.0",
+                "buildNumber": null
+            },
+            {
+                "version": "1.1.0",
+                "buildNumber": null
+            }
+        ],
+        "latest_version": "1.1.0",
+        "scm": {
+            "name": "connector-azure-network-security-group",
+            "type": "private",
+            "url": "https://github.com/CyberSponse-Dev-Corp/connector-azure-network-security-group/",
+            "latest_release_branch": "release/1.1.0"
+        }
+    },
